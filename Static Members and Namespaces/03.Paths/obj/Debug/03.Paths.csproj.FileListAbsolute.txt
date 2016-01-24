@@ -1,0 +1,8 @@
+D:\VisualStudio\OOP\Static Members and Namespaces\03.Paths\bin\Debug\03.Paths.exe.config
+D:\VisualStudio\OOP\Static Members and Namespaces\03.Paths\obj\Debug\03.Paths.csprojResolveAssemblyReference.cache
+D:\VisualStudio\OOP\Static Members and Namespaces\03.Paths\bin\Debug\03.Paths.exe
+D:\VisualStudio\OOP\Static Members and Namespaces\03.Paths\bin\Debug\03.Paths.pdb
+D:\VisualStudio\OOP\Static Members and Namespaces\03.Paths\bin\Debug\01.Point 3D.exe
+D:\VisualStudio\OOP\Static Members and Namespaces\03.Paths\bin\Debug\01.Point 3D.pdb
+D:\VisualStudio\OOP\Static Members and Namespaces\03.Paths\obj\Debug\03.Paths.exe
+D:\VisualStudio\OOP\Static Members and Namespaces\03.Paths\obj\Debug\03.Paths.pdb

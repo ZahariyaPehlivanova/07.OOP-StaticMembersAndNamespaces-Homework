@@ -1,0 +1,1 @@
+D:\VisualStudio\OOP\Static Members and Namespaces\04.Namespaces\bin\Debug\04.Namespaces.exe.config
